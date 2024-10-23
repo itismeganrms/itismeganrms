@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itismeganrms
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning R and Tableau and working on Kaggle projects
-- 💞️ I’m looking to collaborate on any data science projects that might need assistance
+- 💞️ I’m looking to collaborate on any artificial intelligence projects that might need assistance
 - 📫 How to reach me ... @itismeganrms on Kaggle
 
 <!---
